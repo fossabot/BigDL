@@ -26,6 +26,8 @@ For more information, you may [read the docs](https://bigdl.readthedocs.io/).
 ---
 
 ## Installing
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fglorysdj%2FBigDL.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fglorysdj%2FBigDL?ref=badge_shield)
+
 You can use BigDL on [Google Colab](https://bigdl.readthedocs.io/en/latest/doc/UserGuide/colab.html) without any installation. BigDL also includes a set of [notebooks](https://bigdl.readthedocs.io/en/latest/doc/UserGuide/notebooks.html) that you can directly open and run in Colab.
 
 To install BigDL, we recommend using [conda](https://docs.conda.io/projects/conda/en/latest/user-guide/install/)  environments.
@@ -225,3 +227,7 @@ If you've found BigDL useful for your project, you may cite the [paper](https://
   url={https://arxiv.org/pdf/1804.05839.pdf}
 }
 ```
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fglorysdj%2FBigDL.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fglorysdj%2FBigDL?ref=badge_large)
